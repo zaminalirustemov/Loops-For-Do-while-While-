@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\bin\Debug\netcoreapp3.1\prime or composite.exe
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\bin\Debug\netcoreapp3.1\prime or composite.deps.json
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\bin\Debug\netcoreapp3.1\prime or composite.runtimeconfig.json
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\bin\Debug\netcoreapp3.1\prime or composite.runtimeconfig.dev.json
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\bin\Debug\netcoreapp3.1\prime or composite.dll
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\bin\Debug\netcoreapp3.1\prime or composite.pdb
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.AssemblyInfo.cs
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.dll
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.pdb
+C:\Users\HP\Desktop\pyhton\prime or composite\prime or composite\obj\Debug\netcoreapp3.1\prime or composite.genruntimeconfig.cache
